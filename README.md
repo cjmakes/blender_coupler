@@ -7,4 +7,3 @@ Is meant to mate with this
 
 # TODO
 - [ ] Fill in generic measurements
-- [ ] Invert this part to get the coupler that attaches to the blades 
